@@ -1,6 +1,8 @@
 # rusty-aoc-2024
 Solution Implementations for Advent of Code 2024 in Rust
 
+### Current Progress: 5/25
+
 ## Setup Instructions
 
 1. Ensure that Rust and Cargo are installed on your system. Installation files can be obtained [here](https://www.rust-lang.org/tools/install)
