@@ -28,6 +28,7 @@ fn main() {
         2 => Some(aoc24::day2::Day2::get_results()),
         3 => Some(aoc24::day3::Day3::get_results()),
         4 => Some(aoc24::day4::Day4::get_results()),
+        5 => Some(aoc24::day5::Day5::get_results()),
         _ => None,
     };
 
